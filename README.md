@@ -618,7 +618,9 @@ Publish the website in the given URL.
 ![image](https://user-images.githubusercontent.com/94165326/153707214-408fc9ae-9357-4d27-986f-e9a0b7e73a86.png)
 
 ### ABOUT US PAGE:
+![image](https://user-images.githubusercontent.com/94165326/153707241-6f3d6e2f-ae7b-457a-9d67-e0f1af47c63e.png)
+
 
 
 ## Result:
-
+A website has been designed using bootstrap framework.
