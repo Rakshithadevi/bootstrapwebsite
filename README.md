@@ -615,6 +615,8 @@ Publish the website in the given URL.
 ![image](https://user-images.githubusercontent.com/94165326/153707168-7898af5a-a558-4e49-9f41-2dac2aa15079.png)
 
 ### GALARY PAGE:
+![image](https://user-images.githubusercontent.com/94165326/153707214-408fc9ae-9357-4d27-986f-e9a0b7e73a86.png)
+
 ### ABOUT US PAGE:
 
 
