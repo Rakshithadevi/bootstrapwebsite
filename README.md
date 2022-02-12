@@ -612,6 +612,8 @@ Publish the website in the given URL.
 ## OUTPUT:
 
 ### Home Page:
+![image](https://user-images.githubusercontent.com/94165326/153707168-7898af5a-a558-4e49-9f41-2dac2aa15079.png)
+
 ### GALARY PAGE:
 ### ABOUT US PAGE:
 
